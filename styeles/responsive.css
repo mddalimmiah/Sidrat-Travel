@@ -28,4 +28,30 @@
     .banner-description{
     padding: 10px;   
     }
+
+    .Tour-container{
+        flex-direction: column;
+        margin-top: 50px;
+    }
+    .Tour-container{
+        flex-direction: column;
+        gap: 20px;
+    }
+    .tour-section{
+        width: 100%;
+        /* padding: 5px; */
+    }
+    .tour-title{
+        text-align: center;
+        font-size: 2rem;
+    }
+    .Tour-img{
+        width: 100%;
+        
+    }
+    .Tour-img img{
+        width: 100%;
+        
+    }
+    
 }
