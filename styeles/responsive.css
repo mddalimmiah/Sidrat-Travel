@@ -237,14 +237,18 @@
     width: 150px;
     height: 80px;
     font-size: 1rem;
-    /* margin: 40px;
-    padding: 40px;
-    text-align: center; 
-    position: absolute;
-    bottom: 15%; 
-    right: 3%;
-    transform: rotate(-20deg);
-} */
-
+   
+} 
+.flex-container-1{
+    
+    margin-bottom: 20px;
+    
+}
+footer{
+    margin-top: 50px;
+}
+.footer-text{
+    padding: 20px;
+}
 
 }

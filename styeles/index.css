@@ -464,3 +464,37 @@ main{
     color: #FFFFFF;
     text-align: center;
 }
+/* footer start */
+footer{
+    max-width: 1440px;
+    margin: 100px auto;
+    background-color: #1313180D;
+}
+.footer-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.footer-text{
+    text-align: center;
+}
+.footer-description{
+    text-align: center;
+    margin-top: 20px;
+    font-size: #5A5A5D;
+    font-weight: 400;
+}
+.icon{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.copy{
+    margin-top: 100px;
+    text-align: center;
+    font-size: #5A5A5D;
+    font-weight: 400;
+}
